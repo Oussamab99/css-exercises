@@ -1,0 +1,15 @@
+.one,
+.tow{
+    font-size: 26px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+
+
+.one{
+    background-color: black;
+    color: white;
+}
+.tow{
+    background-color: yellow;
+}
